@@ -51,7 +51,7 @@ import (
 )
 
 func main() {
-    // see section below for all available fields
+
 	fields := map[string]string{
 		"members.tierId": "bronze",
 	}
