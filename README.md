@@ -14,7 +14,6 @@ pass links at scale without the need for Developer Resources or the need to impl
 - [How To Use](#how-to-use)
 - [API](#api)
 - [Available Field Names](#available-field-names)
-- [Examples](#examples)
 - [PassKit Portal](#passkit-portal)
 - [Getting Help](#getting-help)
 - [Contributing](#contributing)
@@ -170,9 +169,6 @@ Used to override images on a pass level. Need to contain a valid [https://docs.p
 * `images.message`
 * `images.profile`
 * `images.appImage`
-
-## Examples
-Example CSV files with all supported field names are found in the [examples](/examples) folder in this repo; just delete the columns that you don't need.
 
 ## PassKit Portal
 The [https://app.passkit.com](https://app.passkit.com) allows you to easily design loyalty cards, membership cards and coupons for both Apple Wallet and Google Pay. 
