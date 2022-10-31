@@ -29,13 +29,11 @@ pass links at scale without the need for Developer Resources or the need to impl
 
 ## How to use:
 * run `go get github/PassKit/passkit-golang-smartpass-creator`
-* Get your Project URL: copy from Distribution >> SmartPass Settings in PassKit IO Portal:
+* Get your Project URL and Encryption Key: copy from Distribution >> SmartPass Settings in PassKit IO Portal:
 
-![Project URL](/images/project-url.png)
+![Smartpass Location](https://pk-client-frontend.s3.ap-southeast-1.amazonaws.com/smartpass-images/smartpass-location.png)
 
-* Get your Project Encryption Key: copy from Distribution >> SmartPass Settings in PassKit IO Portal:
-
-![Project Encryption Key](/images/project-key.png)
+![Project URL and Encryption Key](https://pk-client-frontend.s3.ap-southeast-1.amazonaws.com/smartpass-images/smartpass-url-and-key.png)
 
 
 ## API
