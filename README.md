@@ -28,7 +28,7 @@ pass links at scale without the need for Developer Resources or the need to impl
 * Does not support older versions of PassKit (Cherry Pie, and the v2/v3 API's).
 
 ## How to use:
-* run `go get github/PassKit/passkit-golang-smartpass-creator`
+* run `go get github.com/PassKit/passkit-golang-smartpass-creator`
 * Get your Project URL and Encryption Key: copy from Distribution >> SmartPass Settings in PassKit IO Portal:
 
 ![Smartpass Location](https://pk-client-frontend.s3.ap-southeast-1.amazonaws.com/smartpass-images/smartpass-location.png)
